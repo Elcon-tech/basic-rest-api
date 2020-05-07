@@ -1,0 +1,10 @@
+D:\vs\source\repos\Warikan\Warikan\bin\Debug\Warikan.exe.config
+D:\vs\source\repos\Warikan\Warikan\bin\Debug\Warikan.exe
+D:\vs\source\repos\Warikan\Warikan\bin\Debug\Warikan.pdb
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.csprojResolveAssemblyReference.cache
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.Properties.Resources.resources
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.csproj.GenerateResource.Cache
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.csproj.CoreCompileInputs.cache
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.exe
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.pdb
+D:\vs\source\repos\Warikan\Warikan\obj\Debug\Warikan.Warikan.resources

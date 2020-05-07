@@ -1,0 +1,10 @@
+D:\vs\source\repos\MyClock\MyClock\bin\Debug\MyClock.exe.config
+D:\vs\source\repos\MyClock\MyClock\bin\Debug\MyClock.exe
+D:\vs\source\repos\MyClock\MyClock\bin\Debug\MyClock.pdb
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.csprojResolveAssemblyReference.cache
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.Cache
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.csproj.CoreCompileInputs.cache
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.exe
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.pdb
+D:\vs\source\repos\MyClock\MyClock\obj\Debug\MyClock.Display.resources

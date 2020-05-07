@@ -1,0 +1,9 @@
+D:\vs\source\repos\MyClock\MyClock\bin\Release\MyClock.exe.config
+D:\vs\source\repos\MyClock\MyClock\bin\Release\MyClock.exe
+D:\vs\source\repos\MyClock\MyClock\bin\Release\MyClock.pdb
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.Display.resources
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.Properties.Resources.resources
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.csproj.GenerateResource.Cache
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.csproj.CoreCompileInputs.cache
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.exe
+D:\vs\source\repos\MyClock\MyClock\obj\Release\MyClock.pdb
