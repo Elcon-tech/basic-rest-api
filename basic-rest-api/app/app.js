@@ -14,6 +14,10 @@ app.use(bodyParser.json());
 // publicディレクトリを静的ファイル郡のルートディレクトリとして設定
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get('/api/v1/hello', (req, res) => {
+    res.json({"message":"Hello World!"})
+})
+
 app.get('/api/v1/users', (req, res) => {
     const db = new sqlite3.Database(dbPath);
     db.all('select * from users', (err, rows) => {
